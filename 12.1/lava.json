@@ -1,1 +1,28 @@
-#Beginning... Lava
+{
+  "response": [
+    {
+        "maintainer": "Krell RHEL (WolfAURman)",
+        "oem": "Xiaomi",
+        "device": "Redmi 9",
+        "filename": "riceDroid-12.1-2022071704-lava-v3.5-VANILLA.zip",
+        "download": "https://sourceforge.net/projects/ricedroid/files/lava/3.x/riceDroid-12.1-2022071704-lava-v3.5-VANILLA.zip/download",
+        "timestamp": 1658031615,
+        "md5": "6228cd2e2c0e3c1acf7b81ed021aedcb",
+        "sha256": "2b35faa133276a9fbfe8ccd5154a5c904f1900352b6bc17750ef47e5e98fb629",
+        "size": 1111626524,
+        "version": "3.5",
+        "buildtype": "Monthly",
+        "forum": "https://t.me/WolfAURman_Discussion",
+        "gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-SL/09-Jul-2022/NikGapps-core-arm64-12.1-20220709-signed.zip/download",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https://t.me/red_hat_interprise13",
+        "dt": "https://github.com/Redmi-MT6768/android_device_xiaomi_lava",
+        "common-dt": "https://github.com/Redmi-MT6768/android_device_xiaomi_mt6768-common",
+        "kernel": "https://github.com/Redmi-MT6768/android_kernel_xiaomi_mt6768"
+    }
+  ]
+}
